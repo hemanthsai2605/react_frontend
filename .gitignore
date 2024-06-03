@@ -1,0 +1,4 @@
+vite.config.js
+package-lock.json
+.eslintrc.cjs
+node_modules
